@@ -1,0 +1,30 @@
+# Environment
+.env
+.cache-spotify
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Data
+data/spotify.duckdb
+data/checkpoints/
+data/exports/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Personal/temporary files
+playlists.txt
+*.json
+*.txt
+!requirements.txt
+
+# Conversation logs
+202*-*.txt

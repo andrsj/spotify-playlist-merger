@@ -1,0 +1,17 @@
+# Core
+spotipy>=2.23.0
+duckdb>=0.9.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# CLI
+rich>=13.0.0
+
+# Jupyter (optional, for interactive exploration)
+jupyterlab>=4.0.0
+
+# Environment management
+python-dotenv>=1.0.0
