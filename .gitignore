@@ -8,7 +8,6 @@ __pycache__/
 .venv/
 
 # Data
-data/spotify.duckdb
 data/checkpoints/
 data/exports/
 
